@@ -71,9 +71,6 @@ Pictures : No. of pictures posted with review
 
 ![image](https://user-images.githubusercontent.com/101592102/169800590-f9d3d6e6-4b98-46bf-a54e-15c163b81fca.png)
 
-# **Modelling Steps**
-
-![image](https://user-images.githubusercontent.com/101592102/169800794-9f1d608e-cd6d-4958-82b9-5a93e50c215a.png)
 
 # **Clustering**
 
